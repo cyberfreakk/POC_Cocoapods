@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/POC_Cocoapods.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		vMwwDxu4LrQmjzzYX12/39islcc=
+		MpH0vsCZwUtJ3Tyq2nL7OpNlvLo=
 		</data>
 		<key>Modules/POC_Cocoapods.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		xY8Rmid0klj+KjC30fb8+DoA62w=
+		+/J+yV8LFLUWSy+5r+BcseE7AhQ=
 		</data>
 		<key>Modules/POC_Cocoapods.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/POC_Cocoapods.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		xY8Rmid0klj+KjC30fb8+DoA62w=
+		+/J+yV8LFLUWSy+5r+BcseE7AhQ=
 		</data>
 		<key>Modules/POC_Cocoapods.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		6kYG0MpimTiL39MPjIusjuw4PlU=
+		bVhTiswpBEE7v7M6GTv6jOjtrMs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IZsPDk7AG6bmOatJvy0ACG52pGyUOz4Ci5tQ7b3LJJg=
+			vgbuCHBzBHspums7POIQr+a9vE1ob+riFd2IJL+sFHA=
 			</data>
 		</dict>
 		<key>Modules/POC_Cocoapods.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L8qN6vxe7xWGQmggt8UhQgXcJZvPqhVkalfeD9gr9WM=
+			GRBr7zH5iPzsurVMNYou9B8Qbcs13rtu2CWx8OcsKYM=
 			</data>
 		</dict>
 		<key>Modules/POC_Cocoapods.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L8qN6vxe7xWGQmggt8UhQgXcJZvPqhVkalfeD9gr9WM=
+			GRBr7zH5iPzsurVMNYou9B8Qbcs13rtu2CWx8OcsKYM=
 			</data>
 		</dict>
 		<key>Modules/POC_Cocoapods.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZHdGiQ5GticIjQyxlOsDZbprHlrcakHrzrgdaylWoY=
+			dWFs5jzszRPdMclGra5K7K21+JwSr07FPBCfr7otZvQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

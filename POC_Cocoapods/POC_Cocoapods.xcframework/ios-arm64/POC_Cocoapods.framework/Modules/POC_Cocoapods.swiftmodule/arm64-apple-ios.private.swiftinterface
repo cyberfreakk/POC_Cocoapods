@@ -7,7 +7,8 @@ import Foundation
 import Swift
 import _Concurrency
 import _StringProcessing
-@_hasMissingDesignatedInitializers public class Service {
-  public func doSomething() -> Swift.String
+public class Service {
+  public init()
+  public static func doSomething() -> Swift.String
   @objc deinit
 }

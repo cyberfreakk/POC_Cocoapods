@@ -20,6 +20,27 @@
         "printedName": "Service",
         "children": [
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Service",
+                "printedName": "POC_Cocoapods.Service",
+                "usr": "s:13POC_Cocoapods7ServiceC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13POC_Cocoapods7ServiceCACycfc",
+            "mangledName": "$s13POC_Cocoapods7ServiceCACycfc",
+            "moduleName": "POC_Cocoapods",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "doSomething",
             "printedName": "doSomething()",
@@ -32,10 +53,12 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:13POC_Cocoapods7ServiceC11doSomethingSSyF",
-            "mangledName": "$s13POC_Cocoapods7ServiceC11doSomethingSSyF",
+            "usr": "s:13POC_Cocoapods7ServiceC11doSomethingSSyFZ",
+            "mangledName": "$s13POC_Cocoapods7ServiceC11doSomethingSSyFZ",
             "moduleName": "POC_Cocoapods",
+            "static": true,
             "declAttributes": [
+              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
@@ -47,8 +70,7 @@
         "moduleName": "POC_Cocoapods",
         "declAttributes": [
           "AccessControl"
-        ],
-        "hasMissingDesignatedInitializers": true
+        ]
       }
     ],
     "json_format_version": 8
@@ -57,7 +79,7 @@
     {
       "filePath": "\/Users\/global\/Desktop\/POC_Cocoapods\/POC_Cocoapods\/POC_Cocoapods\/Service.swift",
       "kind": "StringLiteral",
-      "offset": 204,
+      "offset": 210,
       "length": 15,
       "value": "\"Do Something!\""
     }

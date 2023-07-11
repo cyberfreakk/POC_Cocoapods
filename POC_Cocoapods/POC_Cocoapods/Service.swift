@@ -9,7 +9,7 @@ import Foundation
 
 public class Service {
 
-    private init() {}
+    public init() {}
 
     public static func doSomething() -> String {
         return "Do Something!"

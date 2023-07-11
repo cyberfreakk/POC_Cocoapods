@@ -1,0 +1,65 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "POC_Cocoapods",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Service",
+        "printedName": "Service",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "doSomething",
+            "printedName": "doSomething()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13POC_Cocoapods7ServiceC11doSomethingSSyF",
+            "mangledName": "$s13POC_Cocoapods7ServiceC11doSomethingSSyF",
+            "moduleName": "POC_Cocoapods",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:13POC_Cocoapods7ServiceC",
+        "mangledName": "$s13POC_Cocoapods7ServiceC",
+        "moduleName": "POC_Cocoapods",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/global\/Desktop\/POC_Cocoapods\/POC_Cocoapods\/POC_Cocoapods\/Service.swift",
+      "kind": "StringLiteral",
+      "offset": 204,
+      "length": 15,
+      "value": "\"Do Something!\""
+    }
+  ]
+}

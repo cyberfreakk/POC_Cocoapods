@@ -1,0 +1,11 @@
+framework module POC_Cocoapods {
+  umbrella header "POC_Cocoapods.h"
+
+  export *
+  module * { export * }
+}
+
+module POC_Cocoapods.Swift {
+  header "POC_Cocoapods-Swift.h"
+  requires objc
+}
